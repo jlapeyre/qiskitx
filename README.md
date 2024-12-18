@@ -7,7 +7,7 @@ with `pip install -e .`. This has minimal installation scripts. I want the easie
 to reuse code with maximum relocatability.
 
 
-#### [./qexperiments](./qexperiments)
+#### [./analyze](./analyze)
 
 Code that has been useful for projects, but is not suitble for [./qexperiments](./qexperiments).
 This is is because it may not be generally useful enough, or because it's too rough.
