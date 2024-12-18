@@ -1,0 +1,14 @@
+# This is more than the minimum to run code in this
+# repo (GJL Fri Nov 22 02:03:32 PM EST 2024)
+ipython
+jupyter
+jupytext
+pylatexenc
+numpy
+qiskit_ibm_runtime
+qiskit
+matplotlib
+scikit-learn
+pandas
+
+
